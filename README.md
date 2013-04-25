@@ -5,11 +5,10 @@ Lib Hours 2.x for Drupal 6.x
 copyright 2011 University of Houston Libraries (http://info.lib.uh.edu)
 
 
-Libhours is a simple [Drupal](http://www.drupal.org) 6.x module to allow libraries' to quickly and easily display
-hours for their branches. In addition, hours can be displayed for multiple
-semesters for individual branches.
+Libhours is a simple [Drupal](http://www.drupal.org) 6.x module to allow libraries to quickly and easily display
+hours for their branches. In addition, hours can be displayed for multiple semesters for individual branches.
 
-Library Hours was developed by the University of Houston Libraries, visit us at [http://info.lib.uh.edu/](http://info.lib.uh.edu/)
+Library Hours was developed by the University of Houston Libraries. Visit us at [http://info.lib.uh.edu/](http://info.lib.uh.edu/).
 
 
 INSTALL
